@@ -2,13 +2,26 @@
 # https://github.com/bytemain/dotfiles/blob/main/ubuntu_wsl/zshrc
 
 function get_host_ip() {
-  export host_ip="127.0.0.1"
-  export proxy_socks="socks5://${host_ip}:${1:-20170}"
-  export proxy_http="http://${host_ip}:${2:-20172}"
+  if [ -n "${WSL_DISTRO_NAME}" ]; then
+    # WSL
+    export host_ip="$(ip route | grep default | awk '{print $3}')"
+    export wsl_ip="$(hostname --all-ip-addresses | awk '{print $1}')"
+    export proxy_socks="socks5://${host_ip}:${1:-20172}"
+    export proxy_http="http://${host_ip}:${2:-20173}"
+  else
+    # Ubuntu
+    export host_ip="127.0.0.1"
+    export proxy_socks="socks5://${host_ip}:${1:-20170}"
+    export proxy_http="http://${host_ip}:${2:-20172}"
+  fi
 }
 
 function print_ip() {
   echo "Host IP      : ${host_ip}"
+  if [ -n "${WSL_DISTRO_NAME}" ]; then
+    # WSL
+    echo "WSL IP       : ${wsl_ip}"
+  fi
   echo "PROXY SOCKS5 : ${proxy_socks}"
   echo "PROXY HTTP   : ${proxy_http}"
 }
