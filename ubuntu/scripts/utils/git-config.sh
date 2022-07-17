@@ -2,7 +2,7 @@
 set -o nounset
 
 old_user_name="$(git config --global user.name)"
-read -p "Enter your Git username [${old_user_name}]:" new_user_name
+read -p "Enter your Git username [${old_user_name}]: " new_user_name
 if [ -n "${new_user_name}" ]; then
   git config --global user.name "${new_user_name}"
 fi
