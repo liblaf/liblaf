@@ -23,13 +23,14 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: liblaf
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
