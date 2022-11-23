@@ -1,0 +1,42 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics Insights
+
+on:
+  schedule:
+    - cron: "0 4 * * SUN"
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  metrics-insights:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: none
+          config_timezone: Asia/Shanghai
+          config_output: insights
+
+      - run: |
+          mkdir dist
+          cp /metrics_renders/* dist/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          folder: dist
+          single-commit: true
