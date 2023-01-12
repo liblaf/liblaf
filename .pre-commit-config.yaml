@@ -59,7 +59,6 @@ repos:
         args:
           - "--profile"
           - "black"
-          - "--filter-files"
   - repo: https://github.com/python-jsonschema/check-jsonschema
     rev: "0.20.0"
     hooks:
