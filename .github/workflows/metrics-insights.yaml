@@ -3,17 +3,18 @@ name: Metrics Insights
 
 on:
   schedule:
-    - cron: "0 4 * * SUN"
+    - cron: 0 0 * * SUN
   workflow_dispatch:
   push:
     branches:
-      - "main"
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   metrics-insights:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -36,7 +37,7 @@ jobs:
           cp /metrics_renders/* dist/index.html
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
           single-commit: true

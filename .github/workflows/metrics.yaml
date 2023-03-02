@@ -3,17 +3,18 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 4 * * SUN"
+    - cron: 0 0 * * SUN
   workflow_dispatch:
   push:
     branches:
-      - "main"
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
@@ -36,7 +37,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           plugin_languages: yes
-          plugin_languages_details: "bytes-size, percentage, lines"
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
@@ -50,7 +51,7 @@ jobs:
           plugin_habits_days: 30
 
           plugin_followup: yes
-          plugin_followup_sections: "repositories, user"
+          plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
 
           plugin_people: yes
@@ -69,10 +70,10 @@ jobs:
 
       - run: |
           mkdir dist
-          cp /metrics_renders/* dist
+          cp /metrics_renders/* dist/github-metrics.svg
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
           branch: assets
