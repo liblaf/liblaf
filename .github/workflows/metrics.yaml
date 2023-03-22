@@ -16,8 +16,10 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Build Metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
