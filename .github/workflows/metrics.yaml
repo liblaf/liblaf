@@ -85,9 +85,8 @@ jobs:
           plugin_reactions_limit_discussions_comments: 1000
           plugin_reactions_details: count, percentage
 
-          plugin_repositories: yes
-
           plugin_stargazers: yes
+          plugin_stargazers_days: 0
 
           plugin_traffic: yes
 
