@@ -1,265 +1,264 @@
 categories:
-- category: auto
-  title: Automation
-- category: c/c++
-  title: C/C++
-- category: cli
-  title: CLI
-- category: copier
-  title: Copier Template
-- category: coursework
-  title: Coursework
-- category: go
-  title: Go
-- category: python
-  title: Python
-- category: rust
-  title: Rust
-- category: typescript
-  title: TypeScript
-- category: web
-  title: Website
+  - category: auto
+    title: Automation
+  - category: c/c++
+    title: C/C++
+  - category: cli
+    title: CLI
+  - category: copier
+    title: Copier Template
+  - category: coursework
+    title: Coursework
+  - category: go
+    title: Go
+  - category: python
+    title: Python
+  - category: rust
+    title: Rust
+  - category: typescript
+    title: TypeScript
+  - category: web
+    title: Website
 projects:
-- categories:
-  - python
-  github: liblaf/.github
-- categories:
-  - coursework
-  github: liblaf/40030584-Construction-Technology-Practice
-- categories:
-  - coursework
-  github: liblaf/60420024-Advanced-Numerical-Analysis
-- categories:
-  - python
-  - coursework
-  github: liblaf/84100343-Deep-Learning
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/actions
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/ai-commit-cli
-- categories:
-  - typescript
-  - typescript
-  - web
-  github: liblaf/api
-- categories:
-  - python
-  - python
-  github: liblaf/apple
-- categories:
-  - python
-  - python
-  github: liblaf/array-typing
-- categories:
-  - typescript
-  - typescript
-  - web
-  github: liblaf/assets
-- categories:
-  - cli
-  - python
-  - typescript
-  - web
-  github: liblaf/awesome
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/awesome-list-generator
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/benchmark-ouch
-- categories:
-  - typescript
-  github: liblaf/blog
-- categories: []
-  github: liblaf/blog-next
-- categories:
-  - typescript
-  - typescript
-  - web
-  github: liblaf/cdn
-- categories:
-  - python
-  - python
-  github: liblaf/cherries
-- categories:
-  - c/c++
-  github: liblaf/clang-wrapper
-- categories:
-  - cli
-  - rust
-  github: liblaf/claps
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/color-make
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/cook
-- categories:
-  - copier
-  - python
-  github: liblaf/copier-python
-- categories:
-  - copier
-  github: liblaf/copier-release
-- categories:
-  - copier
-  github: liblaf/copier-shared
-- categories:
-  - cli
-  - copier
-  - typescript
-  github: liblaf/copier-typescript
-- categories: []
-  github: liblaf/dotfiles
-- categories:
-  - python
-  - python
-  github: liblaf/fonts
-- categories:
-  - python
-  - cli
-  - python
-  github: liblaf/grapes
-- categories:
-  - coursework
-  - python
-  github: liblaf/housing-price-model
-- categories:
-  - c/c++
-  - coursework
-  github: liblaf/hpc
-- categories: []
-  github: liblaf/ilatex
-- categories:
-  - python
-  github: liblaf/liblaf
-- categories:
-  - cli
-  - python
-  github: liblaf/lime
-- categories:
-  - c/c++
-  github: liblaf/linux-kernel-modules
-- categories:
-  - c/c++
-  github: liblaf/llvmtutor
-- categories: []
-  github: liblaf/megalinter-plugins
-- categories:
-  - coursework
-  github: liblaf/microstructure-of-hardened-cement-stone
-- categories:
-  - web
-  github: liblaf/mirror-metacubexd
-- categories: []
-  github: liblaf/obsidian
-- categories: []
-  github: liblaf/obsidian.bak
-- categories:
-  - cli
-  - rust
-  github: liblaf/pacify
-- categories:
-  - python
-  - coursework
-  - python
-  github: liblaf/pacman
-- categories:
-  - python
-  github: liblaf/pixi-test
-- categories: []
-  github: liblaf/pkg
-- categories:
-  - python
-  github: liblaf/play-with-taichi
-- categories: []
-  github: liblaf/pre-commit-hooks
-- categories:
-  - python
-  - coursework
-  github: liblaf/propositional-calculus
-- categories: []
-  github: liblaf/Prospects-for-the-Future-Development-of-Smart-Roads
-- categories:
-  - python
-  github: liblaf/python-cli
-- categories:
-  - python
-  github: liblaf/python-toolkit
-- categories:
-  - auto
-  github: liblaf/repo
-- categories: []
-  github: 
-    liblaf/Research-on-the-policy-and-current-situation-of-Giving-way-to-pedestrians-in-Beijing
-- categories: []
-  github: liblaf/resume
-- categories:
-  - python
-  github: liblaf/route-rules
-- categories:
-  - cli
-  - rust
-  github: liblaf/rust-cli
-- categories:
-  - python
-  github: liblaf/sculptor
-- categories:
-  - typescript
-  github: liblaf/sub-converter
-- categories:
-  - python
-  github: liblaf/taichi-extras
-- categories: []
-  github: liblaf/template
-- categories: []
-  github: liblaf/tetgen-mirror
-- categories:
-  - python
-  - cli
-  github: liblaf/thu-learn-downloader
-- categories:
-  - coursework
-  github: liblaf/THU-VI
-- categories:
-  - c/c++
-  - coursework
-  github: liblaf/tiny-mesh-viewer
-- categories:
-  - python
-  - go
-  github: liblaf/TinyAlphaZero
-- categories:
-  - python
-  github: liblaf/TinyAlphaZero-coursework
-- categories:
-  - python
-  github: liblaf/utils-cli
-- categories:
-  - typescript
-  github: liblaf/utils.ts
-- categories: []
-  github: liblaf/vscode-extension-packs
-- categories:
-  - python
-  - coursework
-  github: liblaf/WFIUH
-- categories: []
-  github: liblaf/win-fonts
-- categories:
-  - python
-  github: liblaf/wydyf
+  - categories:
+      - python
+    github: liblaf/.github
+  - categories:
+      - coursework
+    github: liblaf/40030584-Construction-Technology-Practice
+  - categories:
+      - coursework
+    github: liblaf/60420024-Advanced-Numerical-Analysis
+  - categories:
+      - python
+      - coursework
+    github: liblaf/84100343-Deep-Learning
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/actions
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/ai-commit-cli
+  - categories:
+      - typescript
+      - typescript
+      - web
+    github: liblaf/api
+  - categories:
+      - python
+      - python
+    github: liblaf/apple
+  - categories:
+      - python
+      - python
+    github: liblaf/array-typing
+  - categories:
+      - typescript
+      - typescript
+      - web
+    github: liblaf/assets
+  - categories:
+      - cli
+      - python
+      - typescript
+      - web
+    github: liblaf/awesome
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/awesome-list-generator
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/benchmark-ouch
+  - categories:
+      - typescript
+    github: liblaf/blog
+  - categories: []
+    github: liblaf/blog-next
+  - categories:
+      - typescript
+      - typescript
+      - web
+    github: liblaf/cdn
+  - categories:
+      - python
+      - python
+    github: liblaf/cherries
+  - categories:
+      - c/c++
+    github: liblaf/clang-wrapper
+  - categories:
+      - cli
+      - rust
+    github: liblaf/claps
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/color-make
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/cook
+  - categories:
+      - copier
+      - python
+    github: liblaf/copier-python
+  - categories:
+      - copier
+    github: liblaf/copier-release
+  - categories:
+      - copier
+    github: liblaf/copier-shared
+  - categories:
+      - cli
+      - copier
+      - typescript
+    github: liblaf/copier-typescript
+  - categories: []
+    github: liblaf/dotfiles
+  - categories:
+      - python
+      - python
+    github: liblaf/fonts
+  - categories:
+      - python
+      - cli
+      - python
+    github: liblaf/grapes
+  - categories:
+      - coursework
+      - python
+    github: liblaf/housing-price-model
+  - categories:
+      - c/c++
+      - coursework
+    github: liblaf/hpc
+  - categories: []
+    github: liblaf/ilatex
+  - categories:
+      - python
+    github: liblaf/liblaf
+  - categories:
+      - cli
+      - python
+    github: liblaf/lime
+  - categories:
+      - c/c++
+    github: liblaf/linux-kernel-modules
+  - categories:
+      - c/c++
+    github: liblaf/llvmtutor
+  - categories: []
+    github: liblaf/megalinter-plugins
+  - categories:
+      - coursework
+    github: liblaf/microstructure-of-hardened-cement-stone
+  - categories:
+      - web
+    github: liblaf/mirror-metacubexd
+  - categories: []
+    github: liblaf/obsidian
+  - categories: []
+    github: liblaf/obsidian.bak
+  - categories:
+      - cli
+      - rust
+    github: liblaf/pacify
+  - categories:
+      - python
+      - coursework
+      - python
+    github: liblaf/pacman
+  - categories:
+      - python
+    github: liblaf/pixi-test
+  - categories: []
+    github: liblaf/pkg
+  - categories:
+      - python
+    github: liblaf/play-with-taichi
+  - categories: []
+    github: liblaf/pre-commit-hooks
+  - categories:
+      - python
+      - coursework
+    github: liblaf/propositional-calculus
+  - categories: []
+    github: liblaf/Prospects-for-the-Future-Development-of-Smart-Roads
+  - categories:
+      - python
+    github: liblaf/python-cli
+  - categories:
+      - python
+    github: liblaf/python-toolkit
+  - categories:
+      - auto
+    github: liblaf/repo
+  - categories: []
+    github: liblaf/Research-on-the-policy-and-current-situation-of-Giving-way-to-pedestrians-in-Beijing
+  - categories: []
+    github: liblaf/resume
+  - categories:
+      - python
+    github: liblaf/route-rules
+  - categories:
+      - cli
+      - rust
+    github: liblaf/rust-cli
+  - categories:
+      - python
+    github: liblaf/sculptor
+  - categories:
+      - typescript
+    github: liblaf/sub-converter
+  - categories:
+      - python
+    github: liblaf/taichi-extras
+  - categories: []
+    github: liblaf/template
+  - categories: []
+    github: liblaf/tetgen-mirror
+  - categories:
+      - python
+      - cli
+    github: liblaf/thu-learn-downloader
+  - categories:
+      - coursework
+    github: liblaf/THU-VI
+  - categories:
+      - c/c++
+      - coursework
+    github: liblaf/tiny-mesh-viewer
+  - categories:
+      - python
+      - go
+    github: liblaf/TinyAlphaZero
+  - categories:
+      - python
+    github: liblaf/TinyAlphaZero-coursework
+  - categories:
+      - python
+    github: liblaf/utils-cli
+  - categories:
+      - typescript
+    github: liblaf/utils.ts
+  - categories: []
+    github: liblaf/vscode-extension-packs
+  - categories:
+      - python
+      - coursework
+    github: liblaf/WFIUH
+  - categories: []
+    github: liblaf/win-fonts
+  - categories:
+      - python
+    github: liblaf/wydyf
