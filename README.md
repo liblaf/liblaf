@@ -134,6 +134,7 @@ A Tiny Mesh Viewer based on OpenGL <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/lime**](https://github.com/liblaf/lime) <br />
 🍋‍🟩 AI-powered CLI for GitHub: Automate commits, generate READMEs, and manage topics with ease. <br />
@@ -402,6 +403,7 @@ Naive Implementation of AlphaZero (WIP) <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/housing-price-model**](https://github.com/liblaf/housing-price-model) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 📚 Coursework for Engineering Economy (30030352). 课外拓展性研究小论文. <br />
