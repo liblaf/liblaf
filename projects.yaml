@@ -159,6 +159,8 @@ projects:
     github: liblaf/llvmtutor
   - categories: []
     github: liblaf/megalinter-plugins
+  - categories: []
+    github: liblaf/melon
   - categories:
       - coursework
     github: liblaf/microstructure-of-hardened-cement-stone

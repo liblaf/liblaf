@@ -683,6 +683,11 @@ My Blog (under Conception) <br />
 [![GitHub License](https://img.shields.io/github/license/liblaf/megalinter-plugins)](https://github.com/liblaf/megalinter-plugins/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/megalinter-plugins)](https://github.com/liblaf/megalinter-plugins/issues)
 
+[**liblaf/melon**](https://github.com/liblaf/melon) <br />
+![Shell](https://img.shields.io/badge/Shell-black?logo=gnubash)
+[![GitHub License](https://img.shields.io/github/license/liblaf/melon)](https://github.com/liblaf/melon/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/liblaf/melon)](https://github.com/liblaf/melon/issues)
+
 [**liblaf/obsidian**](https://github.com/liblaf/obsidian) <br />
 ![Shell](https://img.shields.io/badge/Shell-black?logo=gnubash)
 
@@ -731,7 +736,7 @@ Repository Template <br />
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/tetgen-mirror)](https://github.com/liblaf/tetgen-mirror/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/tetgen-mirror)](https://github.com/liblaf/tetgen-mirror/pulls)
 
-[**liblaf/vscode-extension-packs**](https://github.com/liblaf/vscode-extension-packs) <br />
+[**liblaf/vscode-extension-packs**](https://github.com/liblaf/vscode-extension-packs) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 My VS Code extension packs. <br />
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/vscode-extension-packs)](https://github.com/liblaf/vscode-extension-packs/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/vscode-extension-packs)](https://github.com/liblaf/vscode-extension-packs/pulls)
