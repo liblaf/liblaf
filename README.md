@@ -134,7 +134,6 @@ A Tiny Mesh Viewer based on OpenGL <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/lime**](https://github.com/liblaf/lime) <br />
 🍋‍🟩 AI-powered CLI for GitHub: Automate commits, generate READMEs, and manage topics with ease. <br />
@@ -145,7 +144,7 @@ A Tiny Mesh Viewer based on OpenGL <br />
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/lime)](https://github.com/liblaf/lime/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/lime)](https://github.com/liblaf/lime/pulls)
 
-[**liblaf/pacify**](https://github.com/liblaf/pacify) <br />
+[**liblaf/pacify**](https://github.com/liblaf/pacify) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 ⛔️ DEPRECATED - 🛠️ Unified CLI for managing and installing various packages effortlessly <br />
 [`automation`](https://github.com/topics/automation) [`cli`](https://github.com/topics/cli) [`continuous-integration`](https://github.com/topics/continuous-integration) [`dependency-management`](https://github.com/topics/dependency-management) [`deprecated`](https://github.com/topics/deprecated) [`github-actions`](https://github.com/topics/github-actions) [`makefile`](https://github.com/topics/makefile) [`package-manager`](https://github.com/topics/package-manager) [`rust`](https://github.com/topics/rust) [`systemd`](https://github.com/topics/systemd) <br />
 ![Makefile](https://img.shields.io/badge/Makefile-black?logo=Makefile)
@@ -403,7 +402,6 @@ Naive Implementation of AlphaZero (WIP) <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/housing-price-model**](https://github.com/liblaf/housing-price-model) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 📚 Coursework for Engineering Economy (30030352). 课外拓展性研究小论文. <br />
@@ -428,6 +426,12 @@ Config files for my GitHub profile. <br />
 [![GitHub stars](https://img.shields.io/github/stars/liblaf/lime)](https://github.com/liblaf/lime/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/lime)](https://github.com/liblaf/lime/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/lime)](https://github.com/liblaf/lime/pulls)
+
+[**liblaf/melon**](https://github.com/liblaf/melon) <br />
+![Python](https://img.shields.io/badge/Python-black?logo=Python)
+[![GitHub License](https://img.shields.io/github/license/liblaf/melon)](https://github.com/liblaf/melon/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/liblaf/melon)](https://github.com/liblaf/melon/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/melon)](https://github.com/liblaf/melon/pulls)
 
 [**liblaf/pacman**](https://github.com/liblaf/pacman) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 📚 Coursework for "Introduction to Artificial Intelligence" (44100102) <br />
@@ -539,7 +543,7 @@ Curve fitting width function IUH (WFIUH) in Hydrology <br />
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/claps)](https://github.com/liblaf/claps/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/claps)](https://github.com/liblaf/claps/pulls)
 
-[**liblaf/pacify**](https://github.com/liblaf/pacify) <br />
+[**liblaf/pacify**](https://github.com/liblaf/pacify) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 ⛔️ DEPRECATED - 🛠️ Unified CLI for managing and installing various packages effortlessly <br />
 [`automation`](https://github.com/topics/automation) [`cli`](https://github.com/topics/cli) [`continuous-integration`](https://github.com/topics/continuous-integration) [`dependency-management`](https://github.com/topics/dependency-management) [`deprecated`](https://github.com/topics/deprecated) [`github-actions`](https://github.com/topics/github-actions) [`makefile`](https://github.com/topics/makefile) [`package-manager`](https://github.com/topics/package-manager) [`rust`](https://github.com/topics/rust) [`systemd`](https://github.com/topics/systemd) <br />
 ![Makefile](https://img.shields.io/badge/Makefile-black?logo=Makefile)
@@ -682,11 +686,6 @@ My Blog (under Conception) <br />
 [`code-formatting`](https://github.com/topics/code-formatting) [`code-quality`](https://github.com/topics/code-quality) [`configuration`](https://github.com/topics/configuration) [`documentation`](https://github.com/topics/documentation) [`linter`](https://github.com/topics/linter) [`markdown`](https://github.com/topics/markdown) [`mega-linter`](https://github.com/topics/mega-linter) [`megalinter`](https://github.com/topics/megalinter) [`megalinter-plugin`](https://github.com/topics/megalinter-plugin) [`prettier`](https://github.com/topics/prettier) [`yaml`](https://github.com/topics/yaml) <br />
 [![GitHub License](https://img.shields.io/github/license/liblaf/megalinter-plugins)](https://github.com/liblaf/megalinter-plugins/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/megalinter-plugins)](https://github.com/liblaf/megalinter-plugins/issues)
-
-[**liblaf/melon**](https://github.com/liblaf/melon) <br />
-![Shell](https://img.shields.io/badge/Shell-black?logo=gnubash)
-[![GitHub License](https://img.shields.io/github/license/liblaf/melon)](https://github.com/liblaf/melon/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/liblaf/melon)](https://github.com/liblaf/melon/issues)
 
 [**liblaf/obsidian**](https://github.com/liblaf/obsidian) <br />
 ![Shell](https://img.shields.io/badge/Shell-black?logo=gnubash)

@@ -159,7 +159,8 @@ projects:
     github: liblaf/llvmtutor
   - categories: []
     github: liblaf/megalinter-plugins
-  - categories: []
+  - categories:
+      - python
     github: liblaf/melon
   - categories:
       - coursework
