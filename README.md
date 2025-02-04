@@ -134,6 +134,7 @@ A Tiny Mesh Viewer based on OpenGL <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/lime**](https://github.com/liblaf/lime) <br />
 🍋‍🟩 AI-powered CLI for GitHub: Automate commits, generate READMEs, and manage topics with ease. <br />
@@ -365,7 +366,6 @@ Naive Implementation of AlphaZero (WIP) <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/cherries)](https://github.com/liblaf/cherries/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/cherries)](https://github.com/liblaf/cherries/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/cherries)](https://github.com/liblaf/cherries/pulls)
 
 [**liblaf/color-make**](https://github.com/liblaf/color-make) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 ⛔️ DEPRECATED - 🛠️ Colorful and enhanced Makefile output with rich text formatting! <br />
@@ -402,6 +402,7 @@ Naive Implementation of AlphaZero (WIP) <br />
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 [![GitHub License](https://img.shields.io/github/license/liblaf/grapes)](https://github.com/liblaf/grapes/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/grapes)](https://github.com/liblaf/grapes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/grapes)](https://github.com/liblaf/grapes/pulls)
 
 [**liblaf/housing-price-model**](https://github.com/liblaf/housing-price-model) ![Archived](https://img.shields.io/badge/Archived-9e6a03?logo=GitHub) <br />
 📚 Coursework for Engineering Economy (30030352). 课外拓展性研究小论文. <br />
@@ -617,7 +618,6 @@ My Blog <br />
 [![GitHub License](https://img.shields.io/github/license/liblaf/utils.ts)](https://github.com/liblaf/utils.ts/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/liblaf/utils.ts)](https://github.com/liblaf/utils.ts/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/liblaf/utils.ts)](https://github.com/liblaf/utils.ts/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/liblaf/utils.ts)](https://github.com/liblaf/utils.ts/pulls)
 
 ## Website
 
